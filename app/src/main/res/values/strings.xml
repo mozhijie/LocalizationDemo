@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">多語言演示</string>
+    <string name="multi_language">多語言</string>
+    <string name="button">按鈕</string>
+    <string name="text_content">文本內容</string>
+    <string name="language_auto">自動</string>
+    <string name="language_simplified">簡體</string>
+    <string name="language_traditional">繁體</string>
+    <string name="language_en">English</string>
+</resources>

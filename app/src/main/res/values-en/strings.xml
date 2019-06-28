@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="multi_language">Localization</string>
+    <string name="button">Button</string>
+    <string name="text_content">TextContent</string>
+    <string name="language_auto">Auto</string>
+    <string name="language_simplified">Simplified</string>
+    <string name="language_traditional">Traditional</string>
+    <string name="language_en">English</string>
+</resources>
